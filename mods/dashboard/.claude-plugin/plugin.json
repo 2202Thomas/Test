@@ -1,0 +1,1 @@
+{ "name": "dashboard", "version": "0.1.0", "description": "Panel neben dem Chat: To-dos und Nachrichten, die noch beantwortet werden muessen", "types": "./types/index.d.ts" }
