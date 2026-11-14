@@ -1,0 +1,1 @@
+{ "name": "kosten-router", "version": "0.1.0", "description": "Lenkt einfache Aufgaben auf Haiku/Sonnet, Opus nur fuer schwere", "types": "./types/index.d.ts" }
